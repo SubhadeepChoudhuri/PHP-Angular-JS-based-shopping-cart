@@ -278,11 +278,11 @@
 	<i id="gendererror"></i>
 	</div>
 	
-	<!--<div class="form-group">
+	<div class="form-group">
 	<label>Select image to upload:</label> 
     <input type="file" name="user_image" id="user_image">
 	<i id="imageerror"></i>
-	</div>-->
+	</div>
 	
 	<div class="form-group">
 	<label>T&C </label>
@@ -295,7 +295,7 @@
 						<div class="form-group text-center">
 						
 							<button type="submit" name="register" id="register" class="btn btn-primary">Register</button>
-							<!--<button id="rstbtnregister" type="reset" class="btn btn-danger">Reset</button>-->
+							<button id="rstbtnregister" type="reset" class="btn btn-danger">Reset</button>
 							
 							<hr>
 							<a href="login.php"><u>Login<u></a>
@@ -305,7 +305,7 @@
 						</form>
 			
 	<script>
-/*	$(document).ready(function(){
+	$(document).ready(function(){
 
  $("#rstbtnregister").click(function(){	
  
@@ -321,7 +321,7 @@
 	
  });	
 	
-});*/
+});
 
 </script>
 
